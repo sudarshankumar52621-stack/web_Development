@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5d5959;
+    text-align:center;
+    
+}
+
+.completed {
+    text-decoration: line-through;
+}
